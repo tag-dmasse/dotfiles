@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/var/www/vhosts/chs_multisite/sites/all/modules/doctorimport'
+let g:netrw_dirhist_2='/var/www/vhosts/star_roses/sites/all/themes/star_roses/templates'
+let g:netrw_dirhist_3='/var/www/vhosts/simplerest/simplerest/settings'
+let g:netrw_dirhist_4='/var/www/vhosts/pdt/emc/emc/settings'
+let g:netrw_dirhist_5='/var/www/vhosts/pdt/emc/emc/templates'
+let g:netrw_dirhist_6='/home/dave/.ssh/identities'
+let g:netrw_dirhist_7='/home/dave/.ssh'
+let g:netrw_dirhist_8='/home/dave/.vim/bundle'
+let g:netrw_dirhist_9='/home/dave/.vim/bundle/vim-airline'
